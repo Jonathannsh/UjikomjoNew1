@@ -1,0 +1,5 @@
+Nama		: Jonathan Roy Imanuel
+Kelas 		: XII RPL 2
+Judul Aplikasi	: Aplikasi Pengaduan Masyarakat
+Link Hosting	: ukkjonathan.000webhostapp.com
+Link Github	: https://github.com/Jonathannsh/Ujikomjo
